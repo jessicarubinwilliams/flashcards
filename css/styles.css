@@ -1,0 +1,8 @@
+.initially-hidden {
+  display: none;
+}
+
+.highlight {
+  background-color: yellow;
+  border-style: solid;
+}
