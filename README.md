@@ -1,3 +1,5 @@
+# _This project is not in a complete or portfolio ready state, and should not be considered representational of professional work._
+
 # _Flashcards_
 
 #### _A web-based application to show definitions when a user clicks on a vocabulary word_
